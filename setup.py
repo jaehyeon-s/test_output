@@ -8,6 +8,7 @@ setuptool.setup(
   author = 'jaehyeonseol',
   author_email = 'qkstm03@naver.com'
   url = 'https://github.com/jaehyeon-s/test_output',
+  download_url = "https://github.com/jaehyeon-s/test_output/archive/refs/tags/v1.0.0.zip",
   install_requires = ['pytest'],
   long_description = 'oss-dev output python module',
   long_description_content_type = 'text/markdown',
